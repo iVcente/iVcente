@@ -7,7 +7,7 @@ I'm a computer science student and one absolutely in love with the field. I'm mo
 #
 <a href="https://github.com/iVcente">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVcente&layout=compact&theme=cobalt" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVcente&layout=compact&theme=cobalt" width="44%">
   </p>
 </a>                                                                                                                  
 
