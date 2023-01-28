@@ -1,6 +1,6 @@
 Hey, I'm Vicente!
 
-I'm a computer scientist and one absolutely passionate about this field of study. I work as a game programmer and I love making games, so that's one thing to certainly find here. I also enjoy any kind of software development, cloud computing and automations with Ansible. I try to share anything I'm currently studying at the moment. I'm updating or uploading new repos whenever I can.
+I'm a computer scientist and one absolutely passionate about this field of study. I work as a gameplay programmer and I love making games, so that's one thing to certainly find here! I also enjoy any kind of software development, cloud computing and automations with Ansible. I try to share anything I'm currently studying at the moment. I'm updating or uploading new repos whenever I can.
 
 📫 You can find/contact me on [LinkedIn](https://www.linkedin.com/in/vicente-vivian/).
 
