@@ -1,8 +1,10 @@
 Hey, I'm Vicente!
 
-I'm a computer scientist and one absolutely passionate about this field of study. I work as a gameplay programmer and I love making games, so that's one thing to certainly find here! I also enjoy any kind of software development, cloud computing and automations with Ansible. I try to share anything I'm currently studying at the moment. I'm updating or uploading new repos whenever I can.
+I'm a computer scientist and one absolutely passionate about this field of study. I work as a game programmer and I love making games, so that's one subject to certainly find here! I try to share anything I'm currently studying at the moment. I'm updating or uploading new repos whenever I can.
 
-📫 You can find/contact me on [LinkedIn](https://www.linkedin.com/in/vicente-vivian/).
+📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/vicente-danzmann-vivian/);
+
+📄 I really enjoy documenting stuff that I learn about Unreal Engine and game development. I have this [Notion website](https://danzmann.notion.site/bfec4a5bafe14d6e94f109638ba156a5?v=1e51b256c6884861b95ce4c8d7b8ee8e) where I write on it mostly to myself, but perhaps you can find it useful as well.
 
 #
 <a href="https://github.com/iVcente">
