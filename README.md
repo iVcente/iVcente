@@ -4,7 +4,7 @@ I'm a computer scientist and one absolutely passionate about this field of study
 
 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/vicente-danzmann-vivian/);
 
-📄 I really enjoy documenting stuff that I learn about Unreal Engine and game development. I have this [Notion website](https://danzmann.notion.site/bfec4a5bafe14d6e94f109638ba156a5?v=1e51b256c6884861b95ce4c8d7b8ee8e) where I gather smart people knowledge and also write on it mostly to my future self, but perhaps you can find it useful as well.
+📄 I really enjoy documenting stuff that I learn about Unreal Engine and game development. I have this [Notion website](https://danzmann.notion.site/25520184d8894f318be2da8335e2cd66?v=291d059f4a6a41df91d8136d0230e805&pvs=4) where I gather smart people knowledge and also write on it mostly to my future self, but perhaps you can find it useful as well.
 
 #
 <a href="https://github.com/iVcente">
