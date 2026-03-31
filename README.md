@@ -1,23 +1,7 @@
-Hey, I'm Vicente!
+Hey! I'm Vicente.
 
-I'm a computer scientist and one absolutely passionate about this field of study. I work as a game programmer and I love making games, so that's one subject to certainly find here! I try to share anything I'm currently studying at the moment -- not just game related. I'm updating or uploading new repos whenever I can.
+I'm a computer scientist who loves making games and building the systems that bring them to life. I work as a Gameplay Programmer, developing systems in C++ and Unreal Engine. I also enjoy exploring other technologies and fields whenever I have the time.
 
-📄 I really enjoy documenting stuff that I learn about Unreal Engine and game development. I have this [Notion website](https://danzmann.notion.site/25520184d8894f318be2da8335e2cd66?v=291d059f4a6a41df91d8136d0230e805&pvs=4) where I gather knowledge from smarter people and also give my contribution. It's mostly to my future self, but perhaps you may find it useful as well.
+You can check out more of my work at [Danzmann.dev]("https://danzmann.dev/"). There you'll find the projects I've worked on (and those still in progress), along with articles where I document what I learn and share my own insights. It's mostly for my future self -- but you might find it useful too.
 
-#
-<a href="https://github.com/iVcente">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVcente&layout=compact&theme=cobalt" width="44%">
-  </p>
-</a>                                                                                                                  
-
-<!--[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iVcente&layout=compact&theme=cobalt" width="42%" />](https://github.com/iVcente) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVcente&layout=compact&theme=cobalt)](https://github.com/iVcente) -->
-
-<!--- https://github.com/anuraghazra/github-readme-stats#github-stats-card --->
-<!--- https://shields.io --->
-
-<!---
-iVcente/iVcente is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cheers! o/
