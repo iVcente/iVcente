@@ -1,3 +1,9 @@
+<h1 align="center">Vicente Danzmann</h1>
+
+<div align="center">
+    <b>Gameplay Programmer | Unreal Engine | C++ </b>
+</div>
+
 Hey! I'm Vicente.
 
 I'm a computer scientist who loves making games and building the systems that bring them to life. I work as a Gameplay Programmer, developing systems in C++ and Unreal Engine. I also enjoy exploring other technologies and fields whenever I have the time.
