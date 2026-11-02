@@ -1,6 +1,6 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=E6EDF3&center=true&vCenter=true&width=400&height=50&lines=Hey+there%21+o%2F">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=2000&color=E6EDF3&center=true&vCenter=true&width=400&height=50&lines=Hey+there%21+o%2F">
     <img alt="Hey there! o/" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=2000&color=1F2328&center=true&vCenter=true&width=400&height=50&lines=Hey+there%21+o%2F">
   </picture>
 </h1>
